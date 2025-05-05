@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mdtanvirisl
+- 👋 Hi, I’m @mdtanvirislam
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning full stack web-development 
+- 🌱 I’m full stack web-development 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me "mdtanvirislam945@gmail.com"
+- 📫 reach me "mdtanvirislam945@gmail.com"
 
